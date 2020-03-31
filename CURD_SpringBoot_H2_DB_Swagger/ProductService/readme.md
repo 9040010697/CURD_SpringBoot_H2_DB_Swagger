@@ -21,7 +21,7 @@ Note: I have written code to open in default browser, if page is blank just refr
 
 
 If you want to import this project
-In eclipse import as a existing maven project and do below steps in eclipse/command line
+In eclipse import as existing maven project and do below steps in eclipse/command line
 
 mvn update
 mvn clean install
